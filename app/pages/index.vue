@@ -22,9 +22,6 @@ const links: ButtonProps[] = [
 </script>
 
 <template>
-    <Head>
-        <Title>Nuxt + Nuxt UI v3 - Starter Template</Title>
-    </Head>
     <div class="flex flex-col justify-center items-center gap-4 h-screen">
         <h1 class="text-3xl font-bold">Nuxt + Nuxt UI v3</h1>
         <Theme />
