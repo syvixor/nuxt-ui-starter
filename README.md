@@ -9,7 +9,7 @@ A starter template for building fast and responsive web applications.
 ### 📋 Prerequisites
 
 Before you begin, ensure you have the following installed:
-- [Node.js](https://nodejs.org) (v18 or higher)
+- [Node.js](https://nodejs.org) (v20 or higher)
 - npm, yarn, pnpm, or bun
 
 ### 🚀 Quick Start
