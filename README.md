@@ -4,7 +4,7 @@ A starter template for building fast and responsive web applications.
 
 ### ✨ Technologies
 
-![](https://skills.syvixor.com/api/icons?i=ts,nuxt,tailwind)
+![Technologies](https://skills.syvixor.com/api/icons?i=ts,nuxt,tailwind)
 
 ### 🚀 Quick Start
 
