@@ -10,11 +10,11 @@
         "postinstall": "nuxt prepare"
     },
     "dependencies": {
-        "nuxt": "^4.0.2"
+        "nuxt": "^4.0.3"
     },
     "devDependencies": {
-        "@iconify-json/lucide": "^1.2.59",
-        "@nuxt/ui": "^3.3.0"
+        "@iconify-json/lucide": "^1.2.63",
+        "@nuxt/ui": "^3.3.2"
     },
     "author": "syvixor",
     "license": "MIT"
