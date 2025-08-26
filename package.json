@@ -13,7 +13,7 @@
         "nuxt": "^4.0.3"
     },
     "devDependencies": {
-        "@iconify-json/lucide": "^1.2.63",
+        "@iconify-json/lucide": "^1.2.64",
         "@nuxt/ui": "^3.3.2"
     },
     "author": "syvixor",
