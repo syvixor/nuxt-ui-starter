@@ -8,32 +8,31 @@ A starter template for building fast and responsive web applications.
 
 ### 🚀 Quick Start
 
-- You have to clone the repository
-  ```bash
-  git clone https://github.com/syvixor/nuxt-ui-starter.git
+#### Clone Repo
 
-  cd nuxt-ui-starter
-  ```
+```bash
+git clone https://github.com/syvixor/nuxt-ui-starter.git
 
-- Next, You have to install the dependencies
-  ```bash
-  pnpm install # or npm install
-  ```
+cd nuxt-ui-starter
+```
 
-- Finally, run development server
+#### Install Dependencies
+  
+```bash
+pnpm install # or npm install
+```
 
-  ```bash
-  pnpm dev # or npm run dev
-  ```
+#### Run Development Server
 
-All good, development server should be running on `localhost:3000`
+```bash
+pnpm dev # or npm run dev
+```
+
+All good, development server should be running on [`localhost:3000`](http://localhost:3000)
 
 ### 💡 Documentation
 
-Check `Nuxt` & `Nuxt UI` docs to learn more.
-
-- [Nuxt](https://nuxt.com)
-- [Nuxt UI](https://ui.nuxt.com)
+Check [`Nuxt`](https://nuxt.com) & [`Nuxt UI`](https://ui.nuxt.com) docs to learn more.
 
 ### 📜 License
 
