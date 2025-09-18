@@ -13,8 +13,8 @@
         "nuxt": "^4.1.2"
     },
     "devDependencies": {
-        "@iconify-json/lucide": "^1.2.67",
-        "@nuxt/ui": "^3.3.3"
+        "@iconify-json/lucide": "^1.2.68",
+        "@nuxt/ui": "^3.3.4"
     },
     "author": "syvixor",
     "license": "MIT"
