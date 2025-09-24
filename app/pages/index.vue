@@ -8,7 +8,7 @@ const links: ButtonProps[] = [
         icon: "i-lucide-book",
         label: "Documentation",
         color: "primary",
-        variant: "subtle"
+        variant: "soft"
     },
     {
         to: "https://github.com/syvixor/nuxt-ui-starter",
@@ -16,15 +16,15 @@ const links: ButtonProps[] = [
         icon: "i-lucide-github",
         label: "Github Repo",
         color: "neutral",
-        variant: "subtle"
+        variant: "soft"
     }
 ];
 </script>
 
 <template>
     <div class="flex flex-col justify-center items-center gap-4 h-screen">
-        <h1 class="text-3xl font-bold">Nuxt + Nuxt UI v3</h1>
-        <Theme />
+        <UIcon name="i-devicon-nuxt" class="w-16 h-16" />
+        <UColorModeButton />
         <div class="flex items-center gap-2">
             <UButton :to="link.to" :target="link.target" :icon="link.icon" :label="link.label" :color="link.color"
                 :variant="link.variant" v-for="(link, index) in links" :key="index" />
