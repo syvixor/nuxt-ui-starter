@@ -22,6 +22,9 @@ const links: ButtonProps[] = [
 </script>
 
 <template>
+    <Head>
+        <Title>Nuxt + Nuxt UI v3 - Starter Template</Title>
+    </Head>
     <div class="flex flex-col justify-center items-center gap-4 h-screen">
         <UIcon name="i-devicon-nuxt" class="w-16 h-16" />
         <UColorModeButton />
