@@ -10,11 +10,11 @@
         "postinstall": "nuxt prepare"
     },
     "dependencies": {
-        "nuxt": "^4.2.2",
+        "nuxt": "^4.3.0",
         "tailwindcss": "^4.1.18"
     },
     "devDependencies": {
-        "@nuxt/ui": "^4.3.0"
+        "@nuxt/ui": "^4.4.0"
     },
     "author": "syvixor"
 }
